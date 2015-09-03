@@ -1,0 +1,18 @@
+{
+  "name": "autocomplete-scb",
+  "main": "./lib/autocomplete-scb",
+  "version": "0.0.0",
+  "description": "PcVue's SCADABasic autocomplete support for Atom",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "autocomplete-scb:toggle"
+  },
+  "repository": "https://github.com/atom/autocomplete-scb",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
