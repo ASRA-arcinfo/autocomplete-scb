@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "autocomplete-scb:toggle"
   },
-  "repository": "https://github.com/atom/autocomplete-scb",
+  "repository": "https://github.com/ASRA-arcinfo/autocomplete-scb",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
